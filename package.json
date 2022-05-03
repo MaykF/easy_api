@@ -1,0 +1,19 @@
+{
+  "name": "easyapi",
+  "version": "1.0.0",
+  "description": "Api treinamento extração dadoss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaykF/easy_apii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaykF/easy_apii/issues"
+  },
+  "homepage": "https://github.com/MaykF/easy_apii#readme"
+}
